@@ -1,5 +1,5 @@
 # Welcome
 ##### This is my first GitHub Post
-*I can even make lists
-*type headings
-*And other things soon
+* I can even make lists
+* Type headings
+* And other things soon
